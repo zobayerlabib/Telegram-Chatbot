@@ -11,7 +11,7 @@ from sklearn.decomposition import PCA
 import numpy as np
 
 TOKEN: Final = "" # Here add the token
-BOT_USERNAME : Final = "" #add the bot username
+BOT_USERNAME : Final = "@travelhelpIS_bot" #add the bot username
 
 # Define dataset path
 dataset_path = r'C:\Users\amans\Desktop\UNI\Intelligence systems\Project Telegram Bot\Dataset.csv'
