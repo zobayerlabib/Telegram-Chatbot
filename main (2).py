@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 import numpy as np
 
-TOKEN: Final = "7440945525:AAEqt5jA0flN1tqxkvw1QtCRlhID2Q8qI4g"
+TOKEN: Final = "" # Here add the token
 BOT_USERNAME : Final = "@travelhelpIS_bot"
 
 # Define dataset path
