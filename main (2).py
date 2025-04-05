@@ -14,7 +14,7 @@ TOKEN: Final = "" # add you token for your bot. I have hide mine due to security
 BOT_USERNAME : Final = "@travelhelpIS_bot" #bot username. You have to add your bot username
 
 # Define dataset path
-dataset_path = r'C:\Users\zobayer\Desktop\UNI\Intelligence systems\Project Telegram Bot\Dataset.csv'
+dataset_path = r'C:\Users\zobayer\Desktop\Downloads\Telegram Bot\Dataset.csv'
 
 # Define log and graph paths dynamically based on the dataset path
 log_path = os.path.join(os.path.dirname(dataset_path), 'user_queries_log.csv')
