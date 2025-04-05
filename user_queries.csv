@@ -1,0 +1,40 @@
+query,cluster
+cheap,2
+expensive,1
+medium,0
+medium,0
+cheap,2
+cheap,2
+cheap,2
+cheap,2
+expensive,1
+view,2
+view,2
+view,2
+i want a cheap place,2
+i want a cheap location,2
+i want a expensive location,3
+i want a place with a view,0
+i want another place with a view,0
+Hello! I would like to go to a cheap location so it's easy on my wallet when i travel and have fun.,1
+Hi. I want a medium priced location so i can spend time,3
+"I have a lot of money to spend, so I would like an expensive place to spend time",0
+"Hmm.. I'm not a fan of that activity. Maybe, another expensive location?",0
+I would like a place with a view,2
+What about that place?,2
+place,2
+Hi. I want a medium priced location,3
+"Hello, I'd want a cheap location",1
+"Actually, I want a medium priced location",3
+What about an expensive place?,0
+Give me another expensive area,0
+That's the same one. Please give another expensive area,0
+What about a place with a view?,2
+iuahdw,2
+I want a place that is cheap,1
+I want a place that's expensive,0
+What about a place that's medium priced,3
+I want another expensive place,0
+"Another expensive one please, as that's the same one",0
+I want a place that has a good view,2
+awdljuih,2
